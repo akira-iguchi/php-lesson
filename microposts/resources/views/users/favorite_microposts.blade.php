@@ -1,5 +1,5 @@
 @if (count($favorites) > 0)
-    <ul class="list-unstyled">
+  <ul class="list-unstyled">
         @foreach ($favorites as $favorite)
             <li class="media mb-3">
                 {{-- 投稿の所有者のメールアドレスをもとにGravatarを取得して表示 --}}
