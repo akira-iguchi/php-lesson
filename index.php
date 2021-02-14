@@ -6,11 +6,7 @@
 <html lang="ja">
     <head>
         <meta charset="utf-8">
-<<<<<<< HEAD
-        <title>Gitチュートリアルだよ</title>
-=======
         <title>Gitチュートリアルdayo</title>
->>>>>>> main
     </head>
     <body>
         <p>今は<?php print $now_hour; ?>時です。</p>
